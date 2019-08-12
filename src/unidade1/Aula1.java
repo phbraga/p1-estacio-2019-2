@@ -14,5 +14,4 @@ public class Aula1 {
         System.out.println(message + name);
 
     }
-
 }
